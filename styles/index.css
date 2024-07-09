@@ -1,0 +1,96 @@
+
+/* header style */
+.name-d{
+    color: blueviolet;
+}
+.a{ color: blue;
+    font-size: 27px;
+}
+.button{
+    height: 35px;width: 100px;
+}
+.cv{
+    display: flex;
+    justify-content: space-between;
+    width:1170px ;
+}
+/* banner style */
+.banner{
+    background-image: url('../assets/Hero-bg.png');
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+    height: 453px;
+    width: 1170px;
+    margin: 5px;
+}
+.bnr-h{
+    font-size: 48px;
+    font-weight: 800px;
+}
+.bnr-p{
+    font-size:16px;
+    margin-bottom: 30px;
+}
+.bnr-btn{
+    color:white ;background-color: rgb(28, 26, 26);
+    height: 35px;
+}
+/* end banner style */
+
+/* main style */
+/* section one styles start */
+.section-one{
+    width: 1170px;
+    margin: 50px;
+    margin-bottom: 100px;
+}
+.heading-one{
+    text-align: center;
+    padding: 3px 90px;
+}
+.s-1-h{
+    font-size: 32px;
+    font-weight:800px ;
+}
+.s-1-p{
+    font-size: 16px;
+}
+.coding{
+    display: flex;
+    gap: 60px;
+    padding: 30px;
+}
+.coding-text{
+    padding: 10px 60px;
+    margin-bottom: 10px;
+    
+}
+.coding-h{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgba(13, 19, 33, 0.7);
+    padding: 40px 10px;
+}
+.coding-p{
+    font-size: 16px;
+    color: rgba(13, 19, 33, 0.7);
+}
+.coding-img{
+    padding: 50px;
+}
+/* end section-one style */
+
+
+/* section-two style */
+.section-two{
+    width: 1170px;
+    padding-bottom: 80px;
+    
+}
+.s-2-video{
+    text-align: center;
+}
+.s-2-txt{
+    padding:50px 100px;
+}
