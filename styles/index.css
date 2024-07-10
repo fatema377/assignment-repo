@@ -19,6 +19,7 @@
     display: flex;
     justify-content: space-between;
     width:1170px ;
+    margin: 0 auto;
 }
 /* banner style */
 .banner{
@@ -29,6 +30,7 @@
     height: 453px;
     width: 1170px;
     margin: 5px;
+    margin: 0 auto;
 }
 .bnr-h{
     font-size: 48px;
@@ -53,6 +55,7 @@
     margin: 50px;
     margin-bottom: 100px;
     background-color: rgb(254, 254, 246);
+    margin: 0 auto;
 }
 .heading-one{
     text-align: center;
@@ -107,7 +110,7 @@
 .section-two{
     width: 1170px;
     padding-bottom: 80px;
-    
+    margin: 0 auto;
     
 }
 .s-2-video{
@@ -122,7 +125,7 @@
 /* section-there style */
 .section-there{
     width: 1170px;
-    
+    margin: 0 auto;
 }
 .card-box{
     display: flex;
@@ -184,7 +187,7 @@
     background-position: center;
     margin-left: 80px;
     border-radius: 16px;
-    
+    margin: 0 auto;
     margin-bottom: 80px;
     margin-top: 80px;
     
@@ -235,6 +238,7 @@
     background-color: rgb(236, 244, 241);
     border-radius: 2px;
     width: 1100px;
+    margin: 0 auto;
 }
 .fot-txt{
     font-size: 20px;
