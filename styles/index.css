@@ -154,3 +154,6 @@
 .next-box{
     padding: 60px;
 }
+.box{
+    border-radius: 16px;
+}
