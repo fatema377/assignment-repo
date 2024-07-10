@@ -1,5 +1,8 @@
 
 /* header style */
+*{
+    scroll-behavior: smooth;
+}
 .name-d{
     color: blueviolet;
 }
@@ -36,7 +39,9 @@
 }
 .bnr-btn{
     color:white ;background-color: rgb(28, 26, 26);
-    height: 35px;
+    padding: 7px 15px;
+    display: inline-block;
+    text-decoration: none;
 }
 /* end banner style */
 
