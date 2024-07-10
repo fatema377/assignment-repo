@@ -8,6 +8,8 @@
 }
 .button{
     height: 35px;width: 100px;
+    color: blueviolet;
+    
 }
 .cv{
     display: flex;
@@ -216,8 +218,12 @@
     padding: 10px 50px;
     display: flex;
     justify-content: space-between;
+    margin-top: 100px;
 }
 .fot-txt{
     font-size: 20px;
     font-weight: 700;
+}
+.icon > a{
+    margin: 20px;
 }
