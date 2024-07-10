@@ -94,6 +94,7 @@
 .section-two{
     width: 1170px;
     padding-bottom: 80px;
+    margin: 0 auto;
     
 }
 .s-2-video{
@@ -108,6 +109,7 @@
 /* section-there style */
 .section-there{
     width: 1170px;
+    margin: 0 auto;
 }
 .card-box{
     display: flex;
@@ -156,4 +158,52 @@
 }
 .box{
     border-radius: 16px;
+}
+/* end section there style */
+
+
+
+/* section four style */
+.section-four{
+    width: 1029px;height: 313px;
+    background-image:linear-gradient(0.00deg, rgb(12, 1, 1) 0.5%,rgba(12, 1, 1, 0) 
+    100%) , url('../assets/handshake.jpg');
+    background-position: center;
+    margin-left: 90px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    
+}
+.support{
+    text-align: center;
+    padding: 30px 50px 50px 20px;
+}
+.supp-h{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.supp-p{
+    color: white;
+}
+.feedback{
+    display: flex;
+    gap: 30px;
+    padding: 10px 60px 60px 20px;
+    padding-left: 150px;
+}
+.input{
+    width: 500px;
+    padding: 15px;
+    font-size: 16px;
+    color: black;
+    background-color: bisque;
+    border-radius: 9px;
+}
+.inp-btn{
+    padding: 15px;
+    font-size: 16px;
+    width: 150px;background-color: bisque;
+    border-radius: 9px;
 }
