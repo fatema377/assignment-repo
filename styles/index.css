@@ -59,6 +59,7 @@
 }
 .s-1-p{
     font-size: 16px;
+    color: rgb(72, 7, 7);
 }
 .coding{
     display: flex;
@@ -87,7 +88,11 @@
     color:blueviolet ;
 }
 .c-h-2{
-    color: crimson;
+    color: rgb(250, 80, 114);
+
+}
+.c-h-3{
+    color: rgb(72, 7, 7);
 }
 /* end section-one style */
 
@@ -174,7 +179,8 @@
     margin-left: 90px;
     border-radius: 16px;
     margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
+    margin-top: 80px;
     
 }
 .support{
@@ -194,6 +200,7 @@
     gap: 30px;
     padding: 10px 60px 60px 20px;
     padding-left: 150px;
+    
 }
 .input{
     width: 500px;
@@ -215,14 +222,17 @@
 /* footer */
 .footer{
     margin: 40px;
-    padding: 10px 50px;
+    padding: 50px;
     display: flex;
     justify-content: space-between;
     margin-top: 100px;
+    background-color: rgb(236, 244, 241);
+    border-radius: 2px;
 }
 .fot-txt{
     font-size: 20px;
     font-weight: 700;
+    color: rgb(72, 7, 7);
 }
 .icon > a{
     margin: 20px;
