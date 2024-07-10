@@ -207,3 +207,15 @@
     width: 150px;background-color: bisque;
     border-radius: 9px;
 }
+/* end section four style */
+
+
+/* footer */
+.footer{
+    margin: 40px;
+    padding: 10px 50px;
+}
+.fot-txt{
+    font-size: 20px;
+    font-weight: 700;
+}
