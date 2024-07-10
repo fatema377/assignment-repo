@@ -44,6 +44,7 @@
     width: 1170px;
     margin: 50px;
     margin-bottom: 100px;
+    background-color: rgb(254, 254, 246);
 }
 .heading-one{
     text-align: center;
@@ -52,6 +53,7 @@
 .s-1-h{
     font-size: 32px;
     font-weight:800px ;
+    color: blue;
 }
 .s-1-p{
     font-size: 16px;
@@ -79,6 +81,12 @@
 .coding-img{
     padding: 50px;
 }
+.c-h-1{
+    color:blueviolet ;
+}
+.c-h-2{
+    color: crimson;
+}
 /* end section-one style */
 
 
@@ -93,4 +101,56 @@
 }
 .s-2-txt{
     padding:50px 100px;
+}
+/* end section-two style */
+
+
+/* section-there style */
+.section-there{
+    width: 1170px;
+}
+.card-box{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    padding: 50px;
+    margin-top: 0px;
+}
+.card{
+    padding: 20px 40px;
+    margin: 20px;
+    border-radius: 16px;
+}
+.c-1{
+    background-color: antiquewhite;
+}
+.c-2{
+    background-color: aquamarine;
+}
+.c-3{
+    background-color: rgb(249, 240, 227);
+}
+.box-1{
+    display: flex;
+    gap: 80px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(242, 246, 246);
+}
+.box-2{
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(237, 237, 208);
+}
+.box-3{
+    display: flex;
+    gap: 60px;
+    padding: 10px;
+    margin: 10px;
+    background-color: bisque;
+}
+.next-box{
+    padding: 60px;
 }
