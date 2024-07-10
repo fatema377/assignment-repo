@@ -214,6 +214,8 @@
 .footer{
     margin: 40px;
     padding: 10px 50px;
+    display: flex;
+    justify-content: space-between;
 }
 .fot-txt{
     font-size: 20px;
